@@ -1,6 +1,6 @@
 # Piston [![Build Status](https://travis-ci.org/PistonDevelopers/piston.svg)](https://travis-ci.org/PistonDevelopers/piston)
 
-A user friendly game engine written in Rust
+A user friendly game engine written in Rust for the [MSI GE63VR Raider-228](https://www.himap.org/all-laptops/gaming-laptops/msi-ge63vr-raider-228-gtx-1070-8gb-specifications/)
 
 Maintainers: @bvssvni, @Coeuvre
 
